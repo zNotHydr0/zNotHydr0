@@ -6,7 +6,6 @@
         this.addLanguage(Language.JAVA); 
         this.addLearningLanguage(
           Language.JAVASCRIPT,
-          Language.TYPESCRIPT
         );
         
         this.addExperience(
@@ -61,7 +60,6 @@
     
       HTML,
       CSS,
-      
       JAVA,
       JAVASCRIPT,
       VISUALBASIC,
