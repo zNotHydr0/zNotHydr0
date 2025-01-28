@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Uri :)</h1>
 <h3 align="center">At 14, I discovered my passion on computing science, from then I have not stopped learning new things to improve every day in this field!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zNotHydr0" alt="zNotHydr0" /></a> </p>
-
 - 🌱 I’m currently learning **C# and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zNotHydr0](https://github.com/zNotHydr0)
@@ -11,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasannabrabourame" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oriol-cartañá-cortés-67350529a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriol-cartañá-cortés-67350529a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6703980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6703980" height="30" width="40" /></a>
-<a href="https://fb.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasannabrabourame" height="30" width="40" /></a>
-<a href="https://instagram.com/er.pras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.pras" height="30" width="40" /></a>
+<a href="https://fb.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="znothydr0" height="30" width="40" /></a>
+<a href="https://instagram.com/_23urii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_23urii" height="30" width="40" /></a>
 </p>
 </br></br>
 
